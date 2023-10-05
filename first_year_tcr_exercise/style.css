@@ -79,13 +79,13 @@ footer{
 }
 
 .dropdown-content a {
-  color: black;
+  color: #00a8c7;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {background-color: lightgrey}
 
 .dropdown:hover .dropdown-content {
   display: block;
